@@ -176,3 +176,4 @@ if [ $downloaded == 1 ];then
 else
   echo -e "Please note that Pi-Apps has NOT been freshly downloaded, because $DIRECTORY already exists."
 fi
+echo "Secure???"
